@@ -1,0 +1,9 @@
+STRUTTURA DEI FILE 
+
+Nel file S3_L5 Progetto completo ho inserito l'esercizio base assegnataci al mattino 
+con la creazione delle tabelle e lo svolgimento dei punti dal 1 al 10.
+
+Nel file S3_L5 Progetto completo EXTRA ho inserito le 2 tabelle del file precedente, 
+e successivamente ho creato altre 3 tabelle e 10 query che mettono in relazione le 5 tabelle. 
+
+P.S le queries sono commentate poiché così sono più facili da controllare.
