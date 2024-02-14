@@ -1,0 +1,19 @@
+Scrivere una piccola relazione, in un nuovo foglio, dove descrivere la struttura dei dati 
+(entità, campi, chiavi primarie, tipologia dei dati, ecc.): 
+
+Il file presenta:
+
+4 tabelle derivate dalla tabella Nuovi ordini
+
+la tabella principale è nuovi ordini composta da 15 colonne e 92448 righe
+
+non ci sono valori nulli o vuoti,
+
+la chiave primaria è COD PROD e i dati sono distribuiti in str, int, float e date in base alle colonne di appartenenza.
+
+
+
+
+
+
+
