@@ -1,0 +1,33 @@
+PROGETTO SETTIMANALE : 
+
+1) LINK DEL PROGETTO: https://lookerstudio.google.com/reporting/d05ea5c3-d1f8-4dec-a4e6-21b1e25d7cb5
+
+2) LINK DEL DRIVE CON IL FILE (DATA MEDITATION COMPITO): https://docs.google.com/spreadsheets/d/1pxmDi8sCA86ziYFKZum6vovWvLPMLVn8zTigfeObGws/edit?usp=sharing
+
+
+TASKS : 
+
+-- Il file Data Meditation Compito è composto da 11 colonne:
+
+1) La prima colonna contiene le date del giorno;
+2) La seconda colonna contiene l' ora a cui iniziavo a giocare;
+3) La terza colonna contiene l' ora a cui finivo di giocare;
+4) La quarta colonna contiene il totale di ore giocato;
+5) La quinta colonna contiene il nome del gioco;
+6) La sesta colonna contiene il genere del gioco;
+7) La settima colonna contiene la tipologia del gioco (PvE o PvP);
+8) L' ottava colonna contiene lo stile di gioco del giorno, ovvero se esploravo, partecipavo eventi o completavo missioni principali o secondarie;
+9) La nona colonna contiene la piattaforma hardware con cui giocavo ad un determinato gioco 
+10) La decima colonna contiene la periferica utilizzara (mouse e tastiera, controller...)
+11) L' undicesima colonna contiene i dati inerenti alle partite in coop o in single player
+
+
+-- Report:
+
+1) La prima pagina del report è la pagina di presentazione dove si possono vedere tutti i giochi a cui ho giocato.
+2) La seconda pagina è la dashboard, essa rappresenta una sintesi generale degli argomenti di cui si viene a trattare nel report.
+3) La terza pagina è statistiche generali, in questa pagina si effettuano diverse analisi e si si rappresenta in vari modi la diversificazione dei giochi giocati.
+4) Nella quarta pagina sono presenti 2 grafici ad albero nella parte superiore e 3 istogrammi nella parte inferiore, questi grafici sono tutti documentati, e in uno di essi si trova un 
+refuso dai il quale fa sorgere una possibile analisi.
+5)Nella quinta pagina viene presentata una analisi su Genshin Impact il quale risulta di molto il gioco maggiormente giocato rispetto a tutti gli altri.
+
